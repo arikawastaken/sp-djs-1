@@ -3,7 +3,6 @@ const modlogsSchema = require('./models/modlogs.js');
 const moment = require('moment');
 const { stripIndent } = require('common-tags');
 const Levels = require('discord-xp');
-const keepAlive = require('./app.js');
 const canvas = require("discord-canvas"),
 welcomeCanvas = new canvas.Welcome();
 const welcomer = require('./models/welcomer.js');
@@ -143,5 +142,4 @@ client.token = process.env['token']
 
 Levels.setURL(client.settings.mongoSrv);
 
-keepAlive();
 client.login(process.env.token);
