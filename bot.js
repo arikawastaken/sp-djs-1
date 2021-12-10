@@ -16,6 +16,7 @@ const client = new Client({
 module.exports = client;
 
 // Global Variables
+client.slashCommands = new Collection();
 client.commands = new Collection();
 client.config = require('./configs/client.json');
 client.emotes = require('./configs/emojis.js');
