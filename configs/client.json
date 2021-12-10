@@ -1,0 +1,14 @@
+{
+    "clientId": "912323662378598430",  
+    "color": "#9aa2f6",
+    "errorcolor": "GREY",
+    "avatar": "https://cdn.discordapp.com/attachments/906735050773655573/906805439851819008/transperent-logo.png",
+    "owner": "Little#6969",
+    "ownerId": "911449506510413864",
+    "testGuild": "https://discord.gg/GZHEz6qP",
+    "supportServer": "https://discord.gg/GZHEz6qP",
+    "inviteLink": "https://discord.com/oauth2/authorize?client_id=912323662378598430&scope=bot%20applications.commands&permissions=4197772415",
+    "webhook": "https://canary.discord.com/api/webhooks/912621163061055500/U4x9ezdv59T2s7lEeExUhI9AkmL6icUm352c_-tt38_l3Zfisp5GZA8VysMsiYf24G6N",
+    "voteLink": "https://www.example.com",
+    "website": "https://www.example.com"
+}
