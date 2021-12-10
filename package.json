@@ -50,6 +50,10 @@
     "nodemon": "^2.0.15",
     "pm2": "^5.1.2"
   },
+"engines": {
+   "node": "16.x",
+   "npm": "7.x"
+},
   "scripts": {
     "start": "node bot.js"
   },
